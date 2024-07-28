@@ -43,4 +43,8 @@
         .botao-personalizado:hover {
             background-color: #1a1616ab;
         }
+
+        .tex-color{
+            color: #ccc;
+        }
     
