@@ -44,6 +44,12 @@
             background-color: #1a1616ab;
         }
 
+        .vacas-move {
+            position: relative; /* or absolute */
+            left: 100px;  /* move 50px to the right */
+            top: -100px;   /* move 20px down */
+        }
+        
         .text-color{
             color: #f7eded;
         }
