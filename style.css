@@ -4,7 +4,7 @@
     }
     body{
     background-image: url("/img/6ad95e60e691dc9dfdf975b32524f5d1.jpg");
-    background-size: 1320px 750px; /* ajusta o tamanho da imagem */
+    background-size: 1000px 750px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-color: #131313;
     overflow: hidden;
