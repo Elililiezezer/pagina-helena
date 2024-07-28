@@ -4,7 +4,7 @@
     }
     body{
     background-image: url("/img/gifpasto.gif");
-    background-size: 1330px 620px; /* ajusta o tamanho da imagem */
+    background-size: 1330px 630px; /* ajusta o tamanho da imagem */
     background-repeat: no-repeat; /* Para evitar a repetição da imagem */
     background-color: #131313;
     overflow: hidden;
@@ -46,7 +46,7 @@
 
         .vacas-move {
             position: relative; /* or absolute */
-            left: 900px;  /* move 50px to the right */
+            left: 500px;  /* move 50px to the right */
             top: -100px;   /* move 20px down */
         }
 
