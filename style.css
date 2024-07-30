@@ -52,9 +52,16 @@
 
         .vacasca-move {
             position: relative; /* or absolute */
+            left: 750px;  /* move 50px to the right */
+            top: -100px;   /* move 20px down */
+        }
+
+        .vac-move {
+            position: relative; /* or absolute */
             left: 350px;  /* move 50px to the right */
             top: 0px;   /* move 20px down */
         }
+
         .text-color{
             color: #f7eded;
         }
