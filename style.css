@@ -46,8 +46,8 @@
 
         .vacaa-move {
             position: relative; /* or absolute */
-            left: 500px;  /* move 50px to the right */
-            top: -100px;   /* move 20px down */
+            left: 700px;  /* move 50px to the right */
+            top: -80px;   /* move 20px down */
         }
 
         .text-color{
